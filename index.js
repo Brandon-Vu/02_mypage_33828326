@@ -10,6 +10,15 @@ http.createServer(function(req, res) {
 <html>
   <head>
     <title>My Page</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+        background-color: #f0f0f0;
+        color: #333;
+      }
+    </style>
   </head>
   <body>
     <h1>Hello, I'm Brandon Vu, a student at Goldsmiths University.</h1>
